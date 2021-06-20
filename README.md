@@ -37,6 +37,6 @@ go run .
 
 ## The Screen Shot Example
 
-<img src="./assets/sample_result.png" width="400" />
+You can see the result image in result folder.
 
 **The cat is carring multiple icons. 🤣**
